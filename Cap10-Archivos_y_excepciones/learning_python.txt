@@ -1,0 +1,6 @@
+En Python puedes ....
+En Python puedes crear clases
+En Python puedes crear instancias
+En Python puedes hacer analisis de datos
+En Python puedes hacer desarrollo de software
+
