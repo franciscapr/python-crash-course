@@ -8,6 +8,9 @@ while True:
     pais = input("Dame el nombre de una pais: ")
     if pais == 'q':
         break
+    poblacion = int(input('¿Cuales la poblaciòn de tu regiòn?: '))
+    if poblacion == 'q':
+        break
 
-    formatted_name = formatted_country(ciudad, pais)
+    formatted_name = formatted_country(ciudad, pais, poblacion)
     print(f"\tNombre con formato adecuado: {formatted_name}.")
